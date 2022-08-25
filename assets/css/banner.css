@@ -4,7 +4,7 @@
 
 .banner__imagem {
   width: 100%;
-  height: calc(100vh - 72px);
+  height: calc(80vh - 72px);
 }
 
 .banner__titulo {
