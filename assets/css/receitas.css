@@ -8,9 +8,9 @@
 .receita{
   background: #fdfdfd;
   display: flex;
-  flex-direction: column;
   margin-bottom: 5rem;
   margin-right: 5rem;
+  flex-direction: column;
   width: Calc(25% - 5rem);
 }
 
@@ -33,10 +33,10 @@
 }
 
 .receita__botao{
+  color: #fdfdfd;
   background: #8d0606;
   border: none;
   border-radius: 5px;
-  color: #fdfdfd;
   padding: 1rem;
   transition: all .1s ease-in-out;
 }
